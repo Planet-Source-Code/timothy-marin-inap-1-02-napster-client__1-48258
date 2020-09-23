@@ -1,0 +1,40 @@
+9/3 Updates
+	
+	Set Version 1.02-
+	Removed MediaPlayer MP3 Player
+		(was slowing it dwn and plain f-ing everything) 	
+	Plays with external player on DblClick
+	FIXED and Tested on windows 98se
+	FIXED Download Resume File.
+	FIXED Upload Resume Files.
+	FIXED Speed settings (really did this time)
+		The problem was i forgot 33.6 before.. oops	
+
+	NEW Options
+		One Upload Slot Per User+
+		Share Downloaded Files+
+		Confirm on exit+
+		Upload Speed limiting +
+		
+
+8/21-25 fix/Additions
+
+	Fixed (dosnt Log Chat When Minimized)
+	fix global/announce
+	set chat chr limit 199
+	added up/dwn msg toggle in chat
+	added dont remove disconnected servers from list(if no alternates found)
+	multiline paste in chat
+	fixed speed option
+	Added Teknap/Mirc Colors/Highlight Sweet
+
+	Changed MP3 Header Retreave
+	made length in library in 1:11 format
+	Search on keypress(enter)
+
+	fixed U/l D/l MSG's Shows Current/finish up/down n whois right
+	a txtbox with current song in library
+	R click up/down (server) will msgbox the network name
+	Changed Version To 1.01
+	Added About msgbox
+
